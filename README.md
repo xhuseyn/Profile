@@ -113,3 +113,5 @@
 <img src="https://raw.githubusercontent.com/xhuseyn/xhuseyn/output/snake.svg" alt="Snake animation" />
 
 ###
+
+![GitHub Snake](https://github.com/xhuseyn/xhuseyn/blob/output/snake.svg)
